@@ -2,6 +2,9 @@
 
 
 ![snake gif](https://github.com/HumanIearning/HumanIearning/blob/output/github-contribution-grid-snake.svg)
+
+![HumanIearning's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumanIearning&show_icons=true&theme=radical)
+
 <!--
 **HumanIearning/HumanIearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
