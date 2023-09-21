@@ -1,6 +1,9 @@
 ### Kim, Do Hyeon
 <a href="https://dev-matician.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdev-matician.tistory.com&count_bg=%2379C83D&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+I love sk8, basketball and math 🛹 🏀 📊 <br>
+I hope to experience all the thing in this world
+
 #### :pencil: History :pencil: 
 <a href="https://dev-matician.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
