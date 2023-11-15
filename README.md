@@ -5,7 +5,10 @@ I love sk8, basketball and math 🛹 🏀 📊 <br>
 I hope to experience all the thing in this world
 
 #### :pencil: History :pencil: 
-<a href="https://dev-matician.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://dev-matician.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://medium.com/me/stories/public/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+<a href="https://velog.io/@humanlearning/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
 
 
 ![HumanIearning's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumanIearning&show_icons=true&theme=radical)
